@@ -6,7 +6,7 @@
 
 Thousands of particles. A handful of rules. Watch cells, membranes and galaxies assemble themselves in real time.
 
-[**▶ Live Demo**](https://primordial-life.vercel.app) · [Report a bug](https://github.com/shahriar-ahmed-seam/primordial/issues) · [Request a feature](https://github.com/shahriar-ahmed-seam/primordial/issues)
+[**▶ Live Demo**](https://swarm-lemon.vercel.app) · [Report a bug](https://github.com/shahriar-ahmed-seam/primordial/issues) · [Request a feature](https://github.com/shahriar-ahmed-seam/primordial/issues)
 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green) ![Bundle](https://img.shields.io/badge/First%20Load-88.5kB-brightgreen)
 
